@@ -1,5 +1,14 @@
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world! - god dag ingrid");
+
+        ItCafe itCafe = new ItCafe();
+
+
+        while (true) {
+            itCafe.ComputerBooking();
+        }
+
+
     }
 }
