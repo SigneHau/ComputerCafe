@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+
     <list default="true" id="802c524e-1011-4f6e-b209-7e907c24b8a1" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/Test/ItCafeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ItCafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ItCafe.java" afterDir="false" />
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

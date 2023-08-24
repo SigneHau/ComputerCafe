@@ -22,4 +22,14 @@ public class Computers {
         }
         return list;
     }
+
+    public void BookComputer(int index){
+        availability[index]= false; //Sætter computeren til optaget
+        System.out.println("You have chosen the computer number " + index + ".");
+    }
+
+    public void UnBookComputer(int index){
+        availability[index]= true; //Sætter computeren til fri
+        System.out.println("You have now unbooked the computer.");
+    }
 }
