@@ -4,8 +4,8 @@ public class Computers {
     private boolean[] availability;
 
     public Computers(){
-        availability = new boolean[5];
-        for (int i = 0; i < availability.length; i++){
+        availability = new boolean[6];
+        for (int i = 1; i < availability.length; i++){
             availability[i] = true; //All computers are initially available
         }
     }
@@ -15,7 +15,7 @@ public class Computers {
         ArrayList<Integer>list = new ArrayList<>();
 
 //Løber gennem forloop, for at se om den er ledig eller ej.
-        for (int i = 0;i<availability.length;i++){
+        for (int i = 1;i<availability.length;i++){
             if(availability[i]){
                 list.add(i);
             }

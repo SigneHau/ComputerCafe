@@ -11,7 +11,7 @@ class ItCafeTest {
         ItCafe itCafe = new ItCafe();
 
 
-        String input = "4\n"; // Simulate user input: 4 and then Enter
+        String input = "5\n"; // Simulate user input: 4 and then Enter
         InputStream in = new ByteArrayInputStream(input.getBytes());
         System.setIn(in);
 
