@@ -5,11 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca273d2d-ef14-4692-b49c-6cf1b1968c3b" name="Changes" comment="">
-<<<<<<< Updated upstream
-      <change afterPath="$PROJECT_DIR$/src/ItCafe.java" afterDir="false" />
-=======
-      <change afterPath="$PROJECT_DIR$/src/Computers.java" afterDir="false" />
->>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,10 +36,6 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-<<<<<<< Updated upstream
-=======
-    "last_opened_file_path": "C:/Users/Ingrid/Desktop/Dat2/ComputerCafe",
->>>>>>> Stashed changes
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,12 +51,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692865271007</updated>
-<<<<<<< Updated upstream
-      <workItem from="1692865272093" duration="1324000" />
-=======
-      <workItem from="1692865272093" duration="1000" />
-      <workItem from="1692866260556" duration="1070000" />
->>>>>>> Stashed changes
     </task>
     <servers />
   </component>
